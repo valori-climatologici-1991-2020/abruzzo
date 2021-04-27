@@ -1,0 +1,167 @@
+n.ord;bacino;zonaAllerta;provincia;comune;localita;nomeStazione;lat;lon;quota;tipoStazione;P;T;Idro;codStaz;codIdro
+1;Aterno-Pescara;Abru-B;AQ;Acciano;Beffi;Acciano, Beffi;42.191880;13.676835;608;TP;21165;21166;;310400;640
+2;Aterno-Pescara;Abru-C;PE;Alanno;Istituto Tecnico Agrario;Alanno;42.295431;13.985343;285;TP;39694;39695;;548700;1040
+3;Aterno-Pescara;Abru-B;AQ;Anversa degli Abruzzi;;Anversa degli Abruzzi;41.994361;13.802714;604;TP;21573;21574;;321000;750
+4;Saline;Abru-C;TE;Arsita;C.da Colli;Arsita;42.500103;13.798015;586;TP;15788;15789;;197800;410
+5;Sangro;Abru-D2;CH;Atessa;Piazzano;Atessa, Piazzano;42.131080;14.414785;78;TP;48523;48522;;650800;1645
+6;Piomba;Abru-A;TE;Atri;Calanchi;Atri, Calanchi;42.572536;13.998267;336;TP;14207;14201;;150200;342
+7;Aterno-Pescara;Abru-B;AQ;Barisciano;;Barisciano;42.323688;13.573891;978;TP;15794;15795;;197900;920
+8;Sangro;Abru-D1;AQ;Barrea;Diga;Barrea, Diga;41.760163;13.987876;980;TP;21163;21164;;310300;1380
+9;Tordino;Abru-A;TE;Bellante;;Bellante;42.744566;13.800154;363;TP;21167;21168;;310500;130
+10;Sangro;Abru-D1;CH;Bomba;;Bomba;42.034493;14.368224;458;TP;19173;19174;;263700;1560
+11;Aterno-Pescara;Abru-B;AQ;Cagnano Amiterno;Termine;Cagnano Amiterno, Termine;42.445063;13.207776;1031;TP;21625;21626;;348000;490
+12;Tordino;Abru-A;TE;Campli;Castelnuovo;Campli, Castelnuovo;42.729722;13.691667;389;TP;58702;58668;;768200;125
+13;Aterno-Pescara;Abru-B;AQ;Campo di Giove;;Campo di Giove;42.010134;14.033574;1074;TP;21179;21180;;311100;790
+14;Aterno-Pescara;Abru-B;AQ;Campo di Giove;Tavola Rotonda;Campo di Giove, Tavola Rotonda;42.024722;14.086111;2337;TP;;57402;;750200;795
+15;Vomano;Abru-B;AQ;Campotosto ;Diga - Case Isaia;Campotosto, Diga;42.536135;13.406388;1344;TP;19821;19822;;263100;190
+16;Liri;Abru-E;AQ;Canistro;;Canistro;41.941652;13.412865;553;TP;48559;48558;;650700;2630
+17;Aterno-Pescara;Abru-B;AQ;Capestrano;;Capestrano;42.268802;13.762359;510;TP;21181;21182;;311200;900
+18;Marsica;Abru-E;AQ;Cappadocia;Verrecchie;Cappadocia, Verrecchie;42.035715;13.248577;1002;TP;39757;39758;;549900;2530
+19;Aterno-Pescara;Abru-C;PE;Caramanico Terme;San Nicolao;Caramanico Terme;42.150771;14.019140;804;TP;15804;15805;;476400;980
+20;Aterno-Pescara;Abru-B;AQ;Carapelle Calvisio;;Carapelle Calvisio;42.300138;13.681729;902;TP;21183;21184;;311300;890
+21;Aterno-Pescara;Abru-C;PE;Carpineto della Nora;;Carpineto della Nora;42.333972;13.862500;544;TP;53415;53586;;741600;1105
+22;Marsica;Abru-E;AQ;Carsoli;Pietrasecca;Carsoli, Pietrasecca;42.133636;13.131331;867;TP;38372;38373;;497000;2570
+23;Osento;Abru-D2;CH;Casalanguida;;Casalanguida;42.039233;14.487965;523;TP;48503;48502;;650300;1675
+24;Aterno-Pescara;Abru-C;CH;Casalincontrada ;;Casalincontrada ;42.291471;14.136304;310;TP;21187;21188;;311500;1070
+25;Sangro;Abru-D1;CH;Casoli;;Casoli;42.115258;14.290052;337;TP;21191;21192;;311700;1630
+26;Sangro;Abru-D1;CH;Casoli;C.da Piano La Roma;Casoli, Piano La Roma;42.131661;14.260368;348;TP;39722;39723;;561400;1625
+27;Sangro;Abru-D1;CH;Casoli;Diga;Casoli, Diga;42.095670;14.257946;250;TP;21585;21586;;327000;1610
+28;Aterno-Pescara;Abru-B;AQ;Castel del Monte;;Castel del Monte;42.366896;13.723514;1346;TP;21587;21588;;328000;860
+29;Vomano;Abru-A;TE;Castelli;San Donato;Castelli;42.484835;13.712052;593;TP;21195;21196;;311900;270
+30;Trigno;Abru-D1;CH;Castiglione Messer Marino;;Castiglione Messer Marino;41.869637;14.454486;975;TP;58187;58185;;761100;1840
+31;Aterno-Pescara;Abru-C;PE;Catignano;C.da Paludi;Catignano;42.346138;13.945334;334;TP;19736;19737;;263400;1110
+32;Marsica;Abru-E;AQ;Celano;Impianti Sportivi;Celano;42.073798;13.536885;718;TP;48561;48562;;650100;2620
+33;Aterno-Pescara;Abru-C;PE;Cepagatti;Villareia;Cepagatti, Villareia;42.341828;14.111852;47;TP;53420;53578;;741500;1125
+34;Aterno-Pescara;Abru-C;CH;Chieti;Crocefisso;Chieti;42.376993;14.183110;278;TP;15810;15811;;197400;1060
+35;Piomba;Abru-C;PE;Citta Sant'Angelo;Annunziata;Città Sant'Angelo;42.516493;14.050832;256;TP;21223;21224;;312400;350
+36;Salinello;Abru-A;TE;Civitella del Tronto;Fortezza;Civitella del Tronto;42.773332;13.667647;620;TP;53470;53469;;742800;40
+37;Marsica;Abru-E;AQ;Collarmele;;Collarmele;42.059978;13.625811;836;TP;48554;48555;;650600;2600
+38;Marsica;Abru-E;AQ;Collelongo;Le Caserine;Collelongo, Le Caserine;41.897389;13.578912;844;TP;39732;39733;;549400;2550
+39;Aterno-Pescara;Abru-B;AQ;Collepietro;;Collepietro;42.221007;13.779926;841;TP;21593;21594;;331000;910
+40;Tordino;Abru-A;TE;Cortino;Pagliaroli;Cortino, Pagliaroli;42.631771;13.541822;967;TP;21273;21274;;315100;60
+41;Vomano;Abru-A;TE;Crognaleto;Nerito;Crognaleto, Nerito;42.548438;13.477812;822;TP;21603;21604;;336000;200
+42;Sinello;Abru-D2;CH;Cupello;;Cupello;42.065670;14.666587;296;TP;21595;21596;;332000;1710
+43;Foro;Abru-C;CH;Fara Filiorum Petri;Colle San Donato;Fara Filiorum Petri;42.246380;14.173209;313;TP;21233;21234;;312900;1260
+44;Saline;Abru-C;PE;Farindola;;Farindola;42.441472;13.819757;495;TP;21237;21238;;313100;370
+45;Venna;Abru-C;CH;Filetto;C.da Fratticello;Filetto;42.209682;14.258296;858;TP;43188;43189;;627900;1245
+46;Sangro;Abru-D1;CH;Gessopalena;;Gessopalena;42.050489;14.274151;635;TP;21239;21240;;313200;1600
+47;Litoranea tra Salinello e Tordino;Abru-A;TE;Giulianova;;Giulianova;42.747941;13.952889;67;TP;19105;19106;;263000;50
+48;Aterno-Pescara;Abru-B;AQ;Goriano Sicoli;Monte Le Serre;Goriano Sicoli, Monte le Serre;42.082359;13.798831;958;TP;15820;15821;;198300;670
+49;Foro;Abru-C;CH;Guardiagrele;;Guardiagrele;42.187121;14.214536;551;TP;21241;21242;;313400;1240
+50;Sinello;Abru-D2;CH;Guilmi;;Guilmi;41.996815;14.483144;605;TP;48572;48573;;650900;1685
+51;Vomano;Abru-A;TE;Isola del Gran Sasso;Fano a Corno;Isola del Gran Sasso, Fano a Corno;42.491062;13.614709;658;TP;21231;21232;;312800;240
+52;Sangro;Abru-D1;CH;Lama dei Peligni;;Lama dei Peligni;42.039639;14.185388;655;TP;21247;21248;;313700;1580
+53;Feltrino;Abru-C;CH;Lanciano;;Lanciano;42.225794;14.384463;298;TP;21249;21250;;313800;1330
+54;Aterno-Pescara;Abru-B;AQ;L'Aquila;Assergi;L'Aquila, Assergi;42.419635;13.518139;992;TP;15791;15792;;198000;590
+55;Aterno-Pescara;Abru-B;AQ;L'Aquila;S. Elia;L'Aquila, S. Elia;42.334135;13.428691;595;TP;15823;15824;;197100;550
+56;Aterno-Pescara;Abru-B;AQ;L'Aquila;Campo Imperatore;L'Aquila, Campo Imperatore;42.443832;13.557805;2137;TP;38407;38408;;514400;580
+57;Aterno-Pescara;Abru-B;AQ;L'Aquila;Centro Funzionale;L'Aquila, Centro Funzionale;42.356620;13.374558;650;TP;51088;51086;;707100;545
+58;Trigno;Abru-D2;CH;Lentella;;Lentella;41.994562;14.675740;372;TP;21253;21254;;314000;1920
+59;Tavo;Abru-C;PE;Loreto Aprutino;Poggioragone;Loreto Aprutino;42.384215;13.947009;312;TP;39689;39690;;548600;395
+60;Aterno-Pescara;Abru-C;PE;Manoppello;C.da Baccigno;Manoppello;42.249852;14.071464;297;TP;21259;21260;;314300;1050
+61;Sinello;Abru-D1;CH;Montazzoli;C.da Fonte Iannette;Montazzoli;41.942279;14.427948;871;TP;15830;15831;;198500;1680
+62;Saline;Abru-C;TE;Montefino;;Montefino;42.547080;13.885752;332;TP;21261;21262;;314400;430
+63;Sangro;Abru-D1;CH;Montenerodomo;Fonticelle;Montenerodomo;41.989885;14.248695;1001;TP;21599;21600;;334000;1520
+64;Aterno-Pescara;Abru-B;AQ;Montereale;;Montereale;42.526194;13.241389;913;TP;15834;15835;;197700;470
+65;Saline;Abru-C;PE;Montesilvano;C.da Fonte dell'Olmo;Montesilvano;42.489261;14.129684;96;TP;21341;21342;;314600;440
+66;Saline;Abru-C;PE;Moscufo;Sterparo dei Santi;Moscufo;42.426046;14.066760;173;TP;21265;21266;;314700;400
+67;Vibrata;Abru-A;TE;Nereto;;Nereto;42.821825;13.812815;165;TP;39674;39675;;548300;30
+68;Arielli;Abru-C;CH;Orsogna;C.da Paduli;Orsogna;42.225408;14.270414;410;TP;21267;21268;;314800;1310
+69;Litoranea tra Foro e Feltrino;Abru-C;CH;Ortona;;Ortona;42.349644;14.404905;75;TP;21269;21270;;314900;1300
+70;Marsica;Abru-E;AQ;Ortucchio;;Ortucchio;41.957213;13.648631;665;TP;48541;48542;;650200;2610
+71;Marsica;Abru-E;AQ;Ovindoli;Campo Porcaro;Ovindoli;42.155082;13.512922;1371;TP;38368;38369;;496800;2580
+72;Sangro;Abru-D1;CH;Palena;;Palena;41.983950;14.137512;781;TP;21605;21606;;337000;1570
+73;Trigno;Abru-D1;CH;Palmoli;;Palmoli;41.941814;14.583286;624;TP;21277;21278;;315300;1870
+74;Sangro;Abru-D1;CH;Pennapiedimonte;;Pennapiedimonte;42.151825;14.194632;679;TP;21279;21280;;315400;1620
+75;Saline;Abru-C;PE;Penne;Diga;Penne, Diga;42.440111;13.915028;260;TP;58062;58060;;761000;385
+76;Marsica;Abru-E;AQ;Pereto;;Pereto;42.058830;13.108555;921;TP;38376;38377;;496900;2560
+77;Aterno-Pescara;Abru-C;PE;Pescara;"S. Silvestro; Scuola Media B. Croce";Pescara;42.449625;14.242365;2;TP;19149;19150;;263800;1160
+78;Aterno-Pescara;Abru-C;PE;Pescara;"Pescara Colli; Itis Di Marzio";Pescara, Colli;42.468779;14.194432;21;TP;21627;21628;;339000;1155
+79;Sangro;Abru-D1;AQ;Pescasseroli;;Pescasseroli;41.809535;13.792313;1164;TP;21609;21610;;340000;1350
+80;Altopiano di Pescocostanzo;Abru-D1;AQ;Pescocostanzo;Parcheggio Seggiovia;Pescocostanzo;41.888193;14.059022;1461;TP;15837;15838;;198400;1180
+81;Aterno-Pescara;Abru-C;PE;Pescosansonesco;Pesco Nuovo;Pescosansonesco, Pesco Nuovo;42.253662;13.884521;533;TP;21281;21282;;315500;960
+82;Vomano;Abru-A;TE;Pietracamela;;Pietracamela;42.523632;13.554663;1043;TP;21343;21344;;315600;220
+83;Litoranea tra Vomano e Piomba;Abru-A;TE;Pineto;Villa Fumosa;Pineto;42.623614;14.055015;4;TP;21283;21284;;315700;333
+84;Aterno-Pescara;Abru-B;AQ;Pizzoli;;Pizzoli;42.428651;13.317404;765;TP;48526;48525;;650500;510
+85;Aterno-Pescara;Abru-B;AQ;Pratola Peligna;Bagnaturo;Pratola Peligna, Bagnaturo;42.093211;13.909354;345;TP;21161;21162;;310200;840
+86;Foro;Abru-C;CH;Pretoro;Passo Lanciano;Pretoro, Passo Lanciano;42.189962;14.099387;1314;TP;19191;19192;;263500;1220
+87;Foro;Abru-C;CH;Pretoro;;Pretoro;42.221974;14.142312;470;TP;21615;21616;;343000;1230
+88;Aterno-Pescara;Abru-D1;AQ;Rivisondoli;Pratello;Rivisondoli, Pratello;41.863305;14.040880;1242;TP;39699;39700;;548800;1170
+89;Aterno-Pescara;Abru-B;AQ;Rocca di Mezzo;;Rocca di Mezzo;42.199956;13.520477;1287;TP;21619;21620;;345000;630
+90;Aterno-Pescara;Abru-B;AQ;Rocca Pia;;Rocca Pia;41.933336;13.976312;1077;TP;21293;21294;;316200;770
+91;Litoranea tra Feltrino e Sangro;Abru-C;CH;Rocca San Giovanni;Contrada Vallevò;Rocca San Giovanni, C.da Vallevò;42.286660;14.475000;79;TP;45868;45869;;639200;1345
+92;Tordino;Abru-A;TE;Rocca Santa Maria;Imposta;Rocca Santa Maria, Imposta;42.688217;13.525813;1093;TP;21295;21296;;316300;55
+93;Aterno-Pescara;Abru-B;AQ;Roccacasale;;Roccacasale;42.122245;13.885718;379;TP;21345;21346;;316400;820
+94;Sangro;Abru-D1;AQ;Roccaraso;Ist. Alberghiero;Roccaraso;41.851903;14.083485;1231;TP;19139;19140;;57100;1430
+95;Sangro;Abru-D1;CH;Rosello;;Rosello;41.899193;14.347464;930;TP;21297;21298;;316500;1510
+96;Litoranea tra Tordino e Vomano;Abru-A;TE;Roseto degli Abruzzi;Solagna;Roseto degli Abruzzi;42.694516;13.983953;94;TP;21299;21300;;316600;150
+97;Aterno-Pescara;Abru-C;PE;Salle;;Salle;42.174722;13.954722;480;TP;53437;53436;;456800;990
+98;Liri;Abru-E;AQ;San Vincenzo Valle Roveto;Roccavivi;San Vincenzo Valle Roveto, Roccavivi;41.819278;13.531195;451;TP;38385;38386;;496700;2590
+99;Feltrino;Abru-C;CH;San Vito Chietino;Colle Capuano;San Vito Chietino, Colle Capuano;42.282413;14.436719;149;TP;35134;35135;;189200;1335
+100;Aterno-Pescara;Abru-C;PE;Sant'Eufemia a Maiella;Orto Botanico;Sant'Eufemia a Maiella;42.120557;14.025807;888;TP;21305;21306;;317000;970
+101;Aterno-Pescara;Abru-B;AQ;Scanno;Passo Godi;Scanno, Passo Godi;41.837028;13.929499;1560;TP;19183;19184;;57300;690
+102;Sinello;Abru-D2;CH;Scerni;Fontenuova;Scerni, Fontenuova;42.118572;14.630076;125;TP;39717;39718;;549100;1700
+103;Aterno-Pescara;Abru-B;AQ;Scoppito;;Scoppito;42.372314;13.254985;780;TP;21313;21314;;317400;530
+104;Aterno-Pescara;Abru-C;PE;Spoltore;;Spoltore;42.456173;14.150492;108;TP;21321;21322;;317800;1140
+105;Aterno-Pescara;Abru-B;AQ;Sulmona;Asilo Comunale;Sulmona;42.068707;13.914361;372;TP;15846;15847;;198200;810
+106;Marsica;Abru-E;AQ;Tagliacozzo;"Roccacerro; Valico di Monte Bove";Tagliacozzo, Roccacerro;42.070761;13.201608;1203;TP;39753;39754;;549800;2520
+107;Marsica;Abru-E;AQ;Tagliacozzo;;Tagliacozzo;42.067882;13.265404;728;TP;39677;39678;;549700;2510
+108;Marsica;Abru-E;AQ;Tagliacozzo;Villa S. Sebastiano;Tagliacozzo, Villa S. Sebastiano;42.032506;13.305125;722;TP;39727;39728;;549300;2540
+109;Tordino;Abru-A;TE;Teramo;Vivaio Acquaviva;Teramo;42.654788;13.717298;218;TP;15849;15850;;197300;100
+110;Vomano;Abru-A;TE;Teramo;Ponte Vomano;Teramo, Ponte Vomano;42.608864;13.768573;132;TP;21613;21614;;342000;310
+111;Litoranea tra Sangro e Sinello;Abru-D2;CH;Torino di Sangro;Borgata Marina;Torino di Sangro;42.233430;14.544037;5;TP;21349;21350;;317900;1660
+112;Aterno-Pescara;Abru-B;AQ;Tornimparte;Villagrande;Tornimparte, Villagrande;42.288593;13.301585;873;TP;21323;21324;;318000;520
+113;Trigno;Abru-D1;CH;Torrebruna;;Torrebruna;41.868531;14.540729;853;TP;21325;21326;;318100;1860
+114;Tordino;Abru-A;TE;Torricella Sicura;Santo Stefano;Torricella Sicura, Santo Stefano;42.647417;13.602807;820;TP;15843;15844;;197600;80
+115;Vomano;Abru-A;TE;Tossicia;Azzinano;Tossicia, Azzinano;42.556413;13.632027;592;TP;48513;48512;;650400;275
+116;Litoranea tra Sinello e Trigno;Abru-D2;CH;Vasto;Sant'Antonio;Vasto;42.099861;14.698392;196;TP;19739;19740;;263200;1740
+117;Aterno-Pescara;Abru-C;PE;Villa Celiera;C.da Pietra Rossa;Villa Celiera;42.384503;13.870040;637;TP;21335;21336;;318600;1100
+118;Aterno-Pescara;Abru-B;AQ;Villa Santa Lucia;Impianti Sportivi;Villa Santa Lucia;42.333488;13.779444;895;TP;19134;19135;;263600;870
+119;Aterno-Pescara;Abru-B;AQ;Villalago;;Villalago;41.937089;13.840990;891;TP;21353;21354;;318900;720
+120;Vibrata;Abru-A;TE;Alba Adriatica;Ponte sul T. Vibrata;Vibrata ad Alba Adriatica;42.835963999999997;13.919098;5.10;IDRO;;;14193;183800;5010
+121;Salinello;Abru-A;TE;Sant'Omero;Garrufo;Salinello a Sant'Omero;42.795875;13.758581;144.50;IDRO;57580;57583;48604;649500;5105
+122;Salinello;Abru-A;TE;Tortoreto;Cavatassi;Salinello a  Cavatassi;42.784011;13.905915999999999;17.90;IDRO;;;14713;188600;5120
+123;Tordino;Abru-A;TE;Teramo;Ponte sul F. Tordino;Tordino a Teramo;42.654102999999999;13.714729;216.40;IDRO;;;15131;197500;5210
+124;Tordino;Abru-A;TE;Notaresco;S.S.553 km0+950 Cordesco;Tordino a Cordesco;42.69802;13.875404;65.50;IDRO;57441;57438;14198;189800;5230
+125;Vomano;Abru-A;TE;Fano Adriano;Bivio per Pietracamela;Rio Arno a Ponte Rio Arno;42.554189000000001;13.54809;406.85;IDRO;;;43192;628000;5360
+126;Vomano;Abru-A;TE;Montorio al Vomano;;Vomano a Montorio;42.581524;13.638380;232.40;IDRO;57577;57576;48602;649600;5370
+127;Vomano;Abru-A;TE;Basciano;Zampitti Salara;Vomano a Basciano;42.612341999999998;13.715139000000001;158.40;IDRO;;;19827;264500;5408
+128;Vomano;Abru-A;TE;Atri;Fontanelle;Vomano a Fontanelle di Atri;42.62424;13.921196999999999;42.40;IDRO;57426;57423;14163;58500;5440
+129;Piomba;Abru-A;TE;Silvi;Contrada Piomba;Piomba a Silvi;42.528052000000002;14.128353000000001;6.80;IDRO;53439;53438;14218;188700;5590
+130;Saline - Tavo;Abru-C;PE;Loreto Aprutino;S. Pellegrino;Tavo a Loreto Aprutino;42.421572;13.935911;180.60;IDRO;;;48531;649700;5639
+131;Saline - Fino;Abru-C;PE;Picciano;Piccianello;Fino a Picciano;42.490860;13.990354;76.30;IDRO;;;48528;649800;5675
+132;Saline;Abru-C;PE;Montesilvano;Villa Carmine;Saline a Villa Carmine;42.502229;14.119937;2.10;IDRO;;;14229;57600;5678
+133;Aterno-Pescara;Abru-B;AQ;Cagnano Amiterno;San Pelino;Aterno a Tre Ponti;42.476469999999999;13.258024000000001;757.20;IDRO;;;43193;628200;5710
+134;Aterno-Pescara;Abru-B;AQ;L'Aquila;Passerella F. Aterno;Aterno a L'Aquila;42.350568000000003;13.380601;614.10;IDRO;;;15139;183200;5730
+135;Aterno-Pescara;Abru-B;AQ;Fagnano Alto;Campana;Aterno a Fagnano;42.248060;13.567311;552.20;IDRO;53565;53566;46809;647300;5750
+136;Aterno-Pescara;Abru-B;AQ;Molina Aterno;Argine F. Aterno;Aterno a Molina;42.137213000000003;13.752998;435.00;IDRO;;;15137;183100;5770
+137;Aterno-Pescara;Abru-B;AQ;Scanno;Lago;Tasso a Scanno;41.917619999999999;13.871839;925.80;IDRO;53569;53570;43194;628300;5800
+138;Aterno-Pescara;Abru-B;AQ;Corfinio;Capocanale;Sagittario a Capo Canale;42.123199999999997;13.866270999999999;269.20;IDRO;;;15133;197000;5870
+139;Aterno-Pescara;Abru-C;PE;Popoli;Zona Ind.le;Aterno Sagittario ad allogg. idr.;42.156274000000003;13.829750000000001;247.50;IDRO;53432;53430;22237;183900;5900
+140;Aterno-Pescara;Abru-C;PE;Popoli;Maraone;Pescara a Maraone;42.179957999999999;13.838597;240.20;IDRO;;;15135;196900;5920
+141;Aterno-Pescara;Abru-C;PE;Bussi sul Tirino;Ponte sul F. Tirino;Tirino a Madonnina;42.21414;13.822336;313.10;IDRO;53435;53433;19120;184200;5940
+142;Orfento;Abru-C;PE;Caramanico Terme;Vivaio Forestale;Orfento a Caramanico;42.162281999999998;14.000707999999999;455.60;IDRO;;;39786;522700;5984
+143;Orte;Abru-C;PE;Bolognano;Borgata S. Antonio;Orte a Musellaro;42.193775000000002;13.960137;298.50;IDRO;;;34040;458500;5988
+144;Aterno-Pescara;Abru-C;PE;Alanno;Contrada S.Emidio;Pescara a Alanno;42.270854;14.013034;80.50;IDRO;53571;53572;46810;647400;6030
+145;Aterno-Pescara;Abru-C;PE;Cepagatti;Villareia;Pescara a Villareia;42.342006;14.119492;32.60;IDRO;;;45214;634400;6090
+146;Aterno-Pescara;Abru-C;PE;Spoltore;Santa Teresa;Pescara a Santa Teresa;42.423706000000003;14.162751999999999;4.50;IDRO;16999;17000;14165;58200;6140
+147;Aterno-Pescara;Abru-C;PE;Spoltore;Santa Teresa;"Pescara a Santa Teresa; Valle Diga";42.426005;14.166647;4.30;IDRO;;;45217;634500;6145
+148;Alento;Abru-C;CH;Ripa Teatina;C.da Alento;Alento a Ripa Teatina;42.370382;14.234198;34.30;IDRO;;;48534;649900;6250
+149;Alento;Abru-C;CH;Francavilla al Mare;San Leonardo;Alento a San Leonardo;42.422229000000002;14.276776;0.70;IDRO;48581;48580;14220;188800;6290
+150;Foro;Abru-C;CH;Vacri;C.da San Vincenzo;Foro a Ponte di Vacri;42.308539000000003;14.234370999999999;104.50;IDRO;53429;53427;19178;183400;6320
+151;Foro;Abru-C;CH;Miglianico;C.da Savini;Foro a Molino Galasso;42.386826999999997;14.318360999999999;5.20;IDRO;;;14222;188900;6395
+152;Feltrino;Abru-C;CH;San Vito Chietino;Ponte sul F. Feltrino;Feltrino a San Vito;42.296439999999997;14.439316;15.00;IDRO;;;14195;183500;6560
+153;Sangro;Abru-D1;AQ;Opi;Casette asismiche;Sangro ad Opi;41.784832000000002;13.833669;1087.50;IDRO;;;43195;628400;6610
+154;Sangro;Abru-D1;AQ;Villetta Barrea;SR83;Sangro a Villetta Barrea;41.777163999999999;13.919199000000001;986.10;IDRO;;;43196;628500;6620
+155;Sangro;Abru-D1;AQ;Castel di Sangro;Ponte Zittola;Zittola a Montenero;41.751708999999998;14.093729;816.50;IDRO;53563;53564;43197;628600;6670
+156;Sangro;Abru-D1;AQ;Ateleta;SS558;Sangro ad Ateleta;41.854323999999998;14.211221;714.40;IDRO;53561;53562;43198;628700;6690
+157;Sangro;Abru-D1;CH;Villa Santa Maria;Madonna in Basilica;Sangro a Villa Santa Maria;41.954886000000002;14.356456;263.60;IDRO;53441;53440;15129;57700;6720
+158;Sangro;Abru-D1;CH;Altino;Selva;Aventino a Selva di Altino;42.123404999999998;14.361025;99.00;IDRO;53559;53560;53558;743600;6780
+159;Sangro;Abru-D2;CH;Paglieta;Piano del Mulino;Sangro a Paglieta;42.199475;14.504586;14.50;IDRO;53443;53442;14167;58400;6890
+160;Osento;Abru-D2;CH;Torino di Sangro;San Tommaso;Osento a San Tommaso;42.203353;14.584289;10.50;IDRO;;;14224;189000;7020
+161;Sinello;Abru-D2;CH;Carpineto Sinello;C.da Coccioleto;Sinello a Carpineto Sinello;42.017007999999997;14.497849;243.60;IDRO;;;48575;650000;7060
+162;Sinello;Abru-D2;CH;Pollutri;Ponte sul F. Sinello;Sinello a Pollutri;42.137191999999999;14.643513;30.60;IDRO;57455;57467;21850;320900;7068
+163;Marsica;Abru-E;AQ;Avezzano;Incile;Case Incile;41.993541;13.454376999999999;647.20;IDRO;48536;48537;38382;497100;7710
+164;Aterno-Pescara;Abru-C;PE;Pescara;Porto Turistico;Pescara Porto;42.467139000000003;14.231778;1.00;MAREO;;14175;;57500;9010
+165;Litoranea tra Salinello e Tordino;Abru-A;TE;Giulianova;Porto;Giulianova Porto;42.753511000000003;13.971304999999999;1.00;MAREO;;39747;;549600;9030
+166;Litoranea tra Sinello e Trigno;Abru-D2;CH;Vasto;Porto;Vasto Porto;42.173782000000003;14.709225;1.00;MAREO;;39742;;549500;9040
